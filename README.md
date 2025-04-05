@@ -6,6 +6,9 @@ This is the sample analytics of financial dataset
 ## Project Objective
  - This Power BI dashboard appears to be designed to provide a comprehensive financial overview across different dimensions (countries, segments, products, and discount bands) for the period between September 2013 and December 2014.
 
+## Dashboard View
+![Screenshot 2025-04-04 143753](https://github.com/user-attachments/assets/c4d6ec79-24b8-49b2-9fde-38b480e19b44)
+
 
 ## Dataset Used
 - <a href="https://github.com/udbhav555/Financial-Sample-Analytics/blob/main/Financial%20Sample.xlsx">Dataset</a>
@@ -37,9 +40,6 @@ This is the sample analytics of financial dataset
    - Pie chart for segment breakdown
    - Line/area chart for discount band analysis
    - KPI cards for summary metrics
-
-## Dashboard Screenshot View
-![Screenshot 2025-04-04 143753](https://github.com/user-attachments/assets/c4d6ec79-24b8-49b2-9fde-38b480e19b44)
 
 
 ## Key Metrics & Insights
